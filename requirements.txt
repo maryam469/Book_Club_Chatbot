@@ -1,0 +1,14 @@
+streamlit
+requests
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+sentence-transformers
+chromadb
+huggingface_hub
+validators==0.28.1
+speechrecognition
+googletrans==4.0.0-rc1
+pyaudio
+
